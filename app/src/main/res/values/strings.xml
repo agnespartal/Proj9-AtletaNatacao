@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atletas</string>
+    <string name="nome">Nome</string>
+    <string name="dataNascimento">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="qtdAnos">Quantidade de Anos</string>
+    <string name="problemasCardiacos">Possui problemas cardiácos?</string>
+    <string name="nomeAcademia">Nome da Academia</string>
+    <string name="recorde">Recorde</string>
+    <string name="juvenil">Atleta Juvenil</string>
+    <string name="senior">Atleta Senior</string>
+    <string name="outros">Outros Atletas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
